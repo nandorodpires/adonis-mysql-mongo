@@ -5,7 +5,7 @@ It's is a simple exemple for adonis project with mysql and mongo database connec
 ## Setup
 
 Configure the .env file to the databases connections;
-Use the the commands above to config the project;
+Use the the commands below to config the project;
 
 ```bash
 npm install
